@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Tijn<br>I'm a Software Development student at Landstede MBO from the Netherlands. I enjoy building web applications and game development.<br><br>💻 Currently working on:<br><br>-Building a backend project with Go (Golang)<br>-Developing games using Unreal Engine (C++)<br>-Full-stack web projects with Laravel and Next.js<br>-Improving my Coding Skills<br><br>⚙️ Technologies I use:<br><br>PHP/JavaScript<br>Laravel And Next.js<br>HTML & CSS<br>Git & GitHub<br>Basic GoLang <br>Unreal Engine/C++<br><br>🌱 Learning & Goals:<br><br>Getting Better C++ for Unreal Engine<br>Getter Better at GoLang<br>Improving my Python<br>Building more complete projects
+👋 Hey, I'm Tijn<br>I'm a Software Development student at Landstede MBO from the Netherlands. I enjoy building web applications and game development.<br><br>💻 Currently working on:<br><br>-Building a backend project with Go (Golang)<br>-Developing games using Unreal Engine (C++)<br>-Full-stack web projects with Laravel and Next.js<br>-Improving my Coding Skills<br><br>⚙️ Technologies I use:<br><br>-PHP/JavaScript<br>-Laravel And Next.js<br>-HTML & CSS<br>-Git & GitHub<br>-Basic GoLang <br>-Unreal Engine/C++<br><br>🌱 Learning & Goals:<br><br>-Getting Better C++ for Unreal Engine<br>-Getter Better at GoLang<br>-Improving my Python<br>-Building more complete projects
 
 
 ## 🌐 Socials:
