@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Tijn<br>I'm a Software Development student at Landstede MBO from the Netherlands. I enjoy building web applications and game development.<br><br>💻 Currently working on:<br><br>-Building a backend project with Go (Golang)<br>-Developing games using Unreal Engine (C++)<br>-Full-stack web projects with Laravel and Next.js<br>-Improving my Coding Skills<br><br>⚙️ Technologies I use:<br><br>-PHP/JavaScript<br>-Laravel And Next.js<br>-HTML & CSS<br>-Git & GitHub<br>-Basic GoLang <br>-Unreal Engine/C++<br><br>🌱 Learning & Goals:<br><br>-Getting Better C++ for Unreal Engine<br>-Getter Better at GoLang<br>-Improving my Python<br>-Building more complete projects
-
+👋 Hey, I'm Tijn<br>I'm a Software Development student at Landstede MBO from the Netherlands. I enjoy building web applications and game development.<br><br>⚙️ Technologies I use:<br><br>-PHP/JavaScript/Typescript<br>-Laravel And Next.js<br>-HTML & CSS<br>-Git & GitHub<br>-Basic GoLang<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tijn-huisman-6468143a9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thuisman3180@student.landstede.nl) 
